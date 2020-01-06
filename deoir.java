@@ -1,2 +1,3 @@
 package devoirjava;
 
+class
