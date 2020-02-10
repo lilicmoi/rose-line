@@ -1,3 +1,5 @@
+package com.example.exam;
+
 public class Store {
     // instance fields
     String productType;
