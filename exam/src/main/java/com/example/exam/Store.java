@@ -22,6 +22,8 @@ public class Store {
       lemonadeStand.advertise();
       lemonadeStand.advertise();
       
-      
+      lemonadeStand.advertise();
+      lemonadeStand.advertise();
+      lemonadeStand.advertise();
     }
   }
