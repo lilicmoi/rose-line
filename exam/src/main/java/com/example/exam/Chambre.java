@@ -33,5 +33,15 @@ public class Chambre {
   }
   public void setIdRoom(int idRoom) {
       this.idRoom = idRoom;
+
+      public void bookRoom(int roomNum)
+{
+        Object[] chambres;
+        if (chambres[roomNum].estLibre() == false)
+    {
+        chambres[roomNum].estLibre(false);
+    }
+    else
+        System.out.println("Chambre " + roomNum + " est toujours occupée.");
   }
 }
